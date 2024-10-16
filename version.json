@@ -1,1 +1,6 @@
-{"app_name":"health_garden_clinic","version":"1.2.0","build_number":"3","package_name":"health_garden_clinic"}
+{
+    "app_name": "health_garden_clinic",
+    "version": "1.2.0",
+    "build_number": "3",
+    "package_name": "health_garden_clinic"
+}
